@@ -1,2 +1,2 @@
 # benjov.github.io
-Personal web page
+Personal website
